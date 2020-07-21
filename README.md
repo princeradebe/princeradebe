@@ -38,11 +38,14 @@
 </p>
 
 ![Prince's github stats](https://github-readme-stats.vercel.app/api/?username=princeradebe&show_icons=true&title_color=3080ed&icon_color=3080ed&text_color=9f9f9f&bg_color=ffffff&hide=["prs"]&hide_border=true)
+
+
+
 <!--
 **princeradebe/princeradebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+![](https://komarev.com/ghpvc/?username=princeradebe)
 
 
 - 🔭 I’m currently working on ...
