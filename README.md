@@ -2,7 +2,7 @@
 // Front end Developer
 {
   "name": "Prince Radebe",
-  "description": "Front end developer",
+  "description": "Front End Developer",
   "education": [
     {
       "institution": "University of South Africa",
