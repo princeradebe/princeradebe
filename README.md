@@ -34,6 +34,7 @@
    <a><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
    <a><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
    <a><img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
+   <a><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
   <a><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
   <a><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
 </p>
