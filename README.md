@@ -28,6 +28,12 @@
    <a><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
 </p>
 
+* **Frameworks:**
+<p>
+   <a><img src="https://img.icons8.com/color/48/000000/flutter.png"/></a>
+   <a><img src="https://img.icons8.com/color/48/000000/nextjs.png"/></a>
+</p>
+
 * **Other tools:**
 <p>
    <a><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
@@ -39,6 +45,7 @@
   <a><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
   <a><img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/></a>
 </p>
+
 
 ![Prince's github stats](https://github-readme-stats.vercel.app/api/?username=princeradebe&show_icons=true&title_color=3080ed&icon_color=3080ed&text_color=9f9f9f&bg_color=ffffff&hide=["prs"]&hide_border=true)
 
