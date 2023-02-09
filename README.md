@@ -1,5 +1,5 @@
 ```json
-// Front end Developer
+// Front-End Developer
 {
   "name": "Prince Radebe",
   "description": "Front End Developer",
