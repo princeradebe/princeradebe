@@ -14,7 +14,7 @@
       "institution": "University of South Africa",
       "qualification": "Bachelor's Degree",
       "specialization": "Computer Science",
-      "year": 2023
+      "year": 2024
     }
   ],
 }
