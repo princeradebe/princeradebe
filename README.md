@@ -24,14 +24,16 @@
 <p>
    <a><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
    <a><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
-   <a><img src="https://img.icons8.com/ios-filled/48/000000/c-plus-plus-logo.png"/></a>
+   <a><img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/></a>
    <a><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
 </p>
 
 * **Frameworks:**
 <p>
    <a><img src="https://img.icons8.com/color/48/000000/flutter.png"/></a>
-   <a><img src="https://img.icons8.com/color/48/000000/nextjs.png"/></a>
+   <a><img src="https://img.icons8.com/fluency/48/nextjs.png"/></a>
+   <a><img src="https://img.icons8.com/fluency/48/angularjs.png"/></a>
+  
 </p>
 
 * **Other tools:**
